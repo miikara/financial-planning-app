@@ -1,4 +1,5 @@
 # Financial Planning APP
+REPOSITORY FOR THIS PROJECT HAS CHANGED TO miikara/financial-tracking
 Financial planning app is a tool for categorizing and tracking your family's expenses and income
 
 ## Installation
